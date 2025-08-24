@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labsheet 02</string>
+    <string name="button_start">Let’s Start</string>
+    <string name="enter_units">Enter Units</string>
+    <string name="calculate">Calculate</string>
+    <string name="electricity_bill">Electricity Bill:</string>
+</resources>
